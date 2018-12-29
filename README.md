@@ -15,5 +15,5 @@ JavaFX application that allows clientele of barber shops to create, track, save 
 Technologies used
 * Java 8 for logic
 * JavaFX with SceneBuilder for layout
-* Object serialization and desirealization for saving and loading
+* Object serialization and deserialization for saving and loading
   
